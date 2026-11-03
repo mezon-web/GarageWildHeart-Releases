@@ -1,5 +1,7 @@
 # ガレージ・ワイルドハート
 
+.NETは同梱していません。[.NET 10 Desktop Runtime x64](https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0)を別途インストールしてください。
+
 **その故障、ウチらが診ます。**
 
 舞台は、港町の小さな整備工場。新人として働き始めたあなたを待っているのは、頼れる先輩たちと、愛車の不調に悩むお客さんたちです。
@@ -10,7 +12,7 @@
 
 **Windows 64bit版 / 日本語 / オフラインで遊べます。**
 
-- **[ゲームをダウンロード（v1.10.31・ZIP・約162 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.31/GarageWildHeart-1.10.31-win-x64.zip)**
+- **[ゲームをダウンロード（v1.10.31・ZIP・約103 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.31/GarageWildHeart-1.10.31-win-x64.zip)**
 - [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.31)
 
 ![ガレージ・ワイルドハートのタイトル画面](images/title.png)
@@ -55,7 +57,7 @@
 2. ZIPを右クリックして「すべて展開」を選びます。
 3. 展開したフォルダーの `GarageWildHeart.exe` を開き、「はじめから」を選びます。
 
-動作に必要なものは同梱しています。`GameData` フォルダーも必要なので、実行ファイルだけを別の場所へ移動せず、展開したフォルダーごと使ってください。
+ゲームの画像・音声・シナリオは同梱しています。`GameData` フォルダーも必要なので、実行ファイルだけを別の場所へ移動せず、展開したフォルダーごと使ってください。
 
 **「Source code (zip / tar.gz)」にはゲーム本体は入っていません。** 上のダウンロードリンクをご利用ください。
 
@@ -76,3 +78,4 @@
 画像とBGMには生成AIを使用しています。ライセンスなどの詳しい情報は、同梱の「説明書」フォルダーと[制作素材とライセンスについて](遊び方.md#制作素材とライセンスについて)をご覧ください。
 
 <!-- 次回公開時は版番号・ダウンロード直リンク・更新内容・検証範囲を更新する。匿名ダウンロードとSHA-256を確認する。GitHub Actionsは使用しない。 -->
+
