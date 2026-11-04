@@ -12,10 +12,14 @@
 
 **Windows 64bit版 / 日本語 / オフラインで遊べます。**
 
-- **[ゲームをダウンロード（v1.10.31・ZIP・約103 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.31/GarageWildHeart-1.10.31-win-x64.zip)**
-- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.31)
+- **[ゲームをダウンロード（v1.10.32・ZIP・約96 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.32/GarageWildHeart-1.10.32-win-x64.zip)**
+- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.32)
 
 ![ガレージ・ワイルドハートのタイトル画面](images/title.png)
+
+## 今回の更新
+
+会話を進めるときの保存処理を軽くし、キャラ紹介や背景を一通り見たあとのメモリ増加を抑えました。音質を保った圧縮でZIPを約103MBから約96MBへ縮小しています。新しいガレージ内外の背景も収録しました。
 
 ## どんなゲーム？
 
@@ -70,8 +74,8 @@
 ## 詳しい案内
 
 - [遊び方・保存データ・ファイルの確認](遊び方.md)
-- [v1.10.31の更新内容](release-notes/v1.10.31.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
-- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.31/GarageWildHeart-1.10.31-win-x64.zip.sha256)
+- [v1.10.32の更新内容](release-notes/v1.10.32.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
+- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.32/GarageWildHeart-1.10.32-win-x64.zip.sha256)
 
 本作の車両や診断値は架空のものです。実車の整備には使用しないでください。
 
