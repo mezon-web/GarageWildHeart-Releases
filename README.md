@@ -12,14 +12,14 @@
 
 **Windows 64bit版 / 日本語 / オフラインで遊べます。**
 
-- **[ゲームをダウンロード（v1.10.32・ZIP・約96 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.32/GarageWildHeart-1.10.32-win-x64.zip)**
-- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.32)
+- **[ゲームをダウンロード（v1.10.33・ZIP・約96 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.33/GarageWildHeart-1.10.33-win-x64.zip)**
+- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.33)
 
 ![ガレージ・ワイルドハートのタイトル画面](images/title.png)
 
 ## 今回の更新
 
-会話を進めるときの保存処理を軽くし、キャラ紹介や背景を一通り見たあとのメモリ増加を抑えました。音質を保った圧縮でZIPを約103MBから約96MBへ縮小しています。新しいガレージ内外の背景も収録しました。
+修理候補の右上からノートを開き、証拠を読み返して同じ候補へ戻れるようにしました。診断ノートの配置とコイルの位置表示も整理し、タイトル画像を更新しています。
 
 ## どんなゲーム？
 
@@ -39,21 +39,27 @@
 
 ### 会話と選択肢
 
-症状を詳しく聞くか、まず相手の不安に耳を傾けるか。会話を通じて、お客さんと愛車のことを知っていきます。
+気になる手がかりを選び、何を確かめるかを先輩たちに相談します。お客さんの不安や、仲間のひと言への返し方にも選択肢があります。
 
-![症状の聞き取り方を選ぶ会話画面](images/dialogue-choices.png)
+![調べた内容をもとに次の方針を相談する会話画面](images/dialogue-choices.png)
 
 ### 診断と波形の比較
 
-止まっているときと、アクセルを踏んだとき。グラフを並べて、どこに違いがあるかを仲間と一緒に確かめます。
+同じ条件で、部品を動かす前と後。グラフを並べて、どこに違いがあるかを仲間と一緒に確かめます。
 
-![アイドル時と加速時の失火回数を比較する診断画面](images/diagnostic-waveforms.png)
+![コイル入替前後の失火回数を比較する診断画面](images/diagnostic-waveforms.png)
 
 ### 証拠を整理するノート
 
 「さっき分かったことは何だったっけ？」と思ったら、ノートを開いてみましょう。調べた結果を読み返しながら、次に何をするか考えられます。
 
 ![取得した証拠と観察内容を読み返す診断ノート](images/diagnostic-notebook.png)
+
+### 証拠を見ながら修理を相談
+
+部品の役割と費用を見比べ、気になったら右上の「ノートを見る」から証拠を確認できます。ノートを閉じても、会話や修理は進みません。
+
+![部品の役割と費用を見比べる修理候補の画面](images/repair-choice.png)
 
 ## 遊びはじめるには
 
@@ -74,8 +80,8 @@
 ## 詳しい案内
 
 - [遊び方・保存データ・ファイルの確認](遊び方.md)
-- [v1.10.32の更新内容](release-notes/v1.10.32.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
-- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.32/GarageWildHeart-1.10.32-win-x64.zip.sha256)
+- [v1.10.33の更新内容](release-notes/v1.10.33.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
+- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.33/GarageWildHeart-1.10.33-win-x64.zip.sha256)
 
 本作の車両や診断値は架空のものです。実車の整備には使用しないでください。
 
