@@ -12,14 +12,14 @@
 
 **Windows 64bit版 / 日本語 / オフラインで遊べます。**
 
-- **[ゲームをダウンロード（v1.10.34・ZIP・約96 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.34/GarageWildHeart-1.10.34-win-x64.zip)**
-- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.34)
+- **[ゲームをダウンロード（v1.10.35・ZIP・約107 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.35/GarageWildHeart-1.10.35-win-x64.zip)**
+- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.35)
 
 ![ガレージ・ワイルドハートのタイトル画面](images/title.png)
 
 ## 今回の更新
 
-自分で調べて見立てを考えやすいよう、会話と診断画面を整理しました。自分の回答に合う振り返り、ノートから修理へ進む流れ、証拠の役割の表示を改善しています。第3話の確認方針も、提案するか先輩と整理するかの2択になりました。
+三台の診断のあとに、片付け、祭りでの再会、帰り道へつながる終章を追加しました。一週間後の休日には、親しくなった相手との新しい後日談CGが登場。見た絵はCGアルバムから読み返せます。
 
 ## どんなゲーム？
 
@@ -92,8 +92,8 @@
 ## 詳しい案内
 
 - [遊び方・保存データ・ファイルの確認](遊び方.md)
-- [v1.10.34の更新内容](release-notes/v1.10.34.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
-- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.34/GarageWildHeart-1.10.34-win-x64.zip.sha256)
+- [v1.10.35の更新内容](release-notes/v1.10.35.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
+- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.35/GarageWildHeart-1.10.35-win-x64.zip.sha256)
 
 本作の車両や診断値は架空のものです。実車の整備には使用しないでください。
 
