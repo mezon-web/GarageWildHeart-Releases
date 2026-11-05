@@ -12,14 +12,14 @@
 
 **Windows 64bit版 / 日本語 / オフラインで遊べます。**
 
-- **[ゲームをダウンロード（v1.10.33・ZIP・約96 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.33/GarageWildHeart-1.10.33-win-x64.zip)**
-- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.33)
+- **[ゲームをダウンロード（v1.10.34・ZIP・約96 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.34/GarageWildHeart-1.10.34-win-x64.zip)**
+- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.34)
 
 ![ガレージ・ワイルドハートのタイトル画面](images/title.png)
 
 ## 今回の更新
 
-修理候補の右上からノートを開き、証拠を読み返して同じ候補へ戻れるようにしました。診断ノートの配置とコイルの位置表示も整理し、タイトル画像を更新しています。
+自分で調べて見立てを考えやすいよう、会話と診断画面を整理しました。自分の回答に合う振り返り、ノートから修理へ進む流れ、証拠の役割の表示を改善しています。第3話の確認方針も、提案するか先輩と整理するかの2択になりました。
 
 ## どんなゲーム？
 
@@ -55,6 +55,18 @@
 
 ![取得した証拠と観察内容を読み返す診断ノート](images/diagnostic-notebook.png)
 
+### 自分の見立てを振り返る
+
+自分が話した予想や見立てを、実際に調べたことと照らし合わせて読み返せます。あとから観察が増えても、そのときの回答は残ります。
+
+![自分の回答と観察を照らし合わせる見立ての振り返り](images/reasoning-review.png)
+
+### 修理の効果をどう確かめる？
+
+何を確認すれば安心して納車できるか、自分で方針を提案したり、先輩と一緒に整理したりできます。
+
+![修理後の確認方針を相談する第3話の選択肢](images/verification-plan.png)
+
 ### 証拠を見ながら修理を相談
 
 部品の役割と費用を見比べ、気になったら右上の「ノートを見る」から証拠を確認できます。ノートを閉じても、会話や修理は進みません。
@@ -75,13 +87,13 @@
 
 ## 以前の版から遊んでいる方へ
 
-ゲームを終了してから、新しいZIPを別のフォルダーへ展開してください。v1.10.25以降のセーブデータで続きから遊べます。v1.10.24以前の途中セーブは引き継げないため、「はじめから」で開始してください。
+ゲームを終了してから、新しいZIPを別のフォルダーへ展開してください。今回は会話構成を改訂したため、「はじめから」で開始してください。以前の途中セーブの互換性は対応対象外です。保存ファイルの変換・削除は行いません。
 
 ## 詳しい案内
 
 - [遊び方・保存データ・ファイルの確認](遊び方.md)
-- [v1.10.33の更新内容](release-notes/v1.10.33.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
-- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.33/GarageWildHeart-1.10.33-win-x64.zip.sha256)
+- [v1.10.34の更新内容](release-notes/v1.10.34.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
+- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.34/GarageWildHeart-1.10.34-win-x64.zip.sha256)
 
 本作の車両や診断値は架空のものです。実車の整備には使用しないでください。
 
