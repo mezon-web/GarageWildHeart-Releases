@@ -12,14 +12,14 @@
 
 **Windows 64bit版 / 日本語 / オフラインで遊べます。**
 
-- **[ゲームをダウンロード（v1.10.35・ZIP・約107 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.35/GarageWildHeart-1.10.35-win-x64.zip)**
-- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.35)
+- **[ゲームをダウンロード（v1.10.36・ZIP・約107 MB）](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.36/GarageWildHeart-1.10.36-win-x64.zip)**
+- [遊び方](遊び方.md) · [更新内容](https://github.com/mezon-web/GarageWildHeart-Releases/releases/tag/v1.10.36)
 
 ![ガレージ・ワイルドハートのタイトル画面](images/title.png)
 
 ## 今回の更新
 
-三台の診断のあとに、片付け、祭りでの再会、帰り道へつながる終章を追加しました。一週間後の休日には、親しくなった相手との新しい後日談CGが登場。見た絵はCGアルバムから読み返せます。
+会話、選択、検査をキーボードで進められるようにしました。検査結果に合ったセリフを増やし、レポートで選んだ修理や追加の点検を読み返せます。全3話の攻略チャートも更新しました。
 
 ## どんなゲーム？
 
@@ -83,17 +83,17 @@
 
 **「Source code (zip / tar.gz)」にはゲーム本体は入っていません。** 上のダウンロードリンクをご利用ください。
 
-会話はクリックで読み進めます。文字の大きさ・速さや音量は「設定」で調整できます。詳しい操作や、保存データのバックアップ方法は[遊び方](遊び方.md)をご覧ください。
+会話欄をクリックするか、Enter・Spaceで読み進めます。文字の大きさ・速さや音量は「設定」で調整できます。詳しい操作や保存データのバックアップ方法は[遊び方](遊び方.md)をご覧ください。
 
 ## 以前の版から遊んでいる方へ
 
-ゲームを終了してから、新しいZIPを別のフォルダーへ展開してください。今回は会話構成を改訂したため、「はじめから」で開始してください。以前の途中セーブの互換性は対応対象外です。保存ファイルの変換・削除は行いません。
+ゲームを終了してから、新しいZIPを別のフォルダーへ展開し、「はじめから」で開始してください。保存形式が5に変わりました。旧形式のオートセーブは新規開始時に、手動枠は保存先に選んだ時点で置き換わります。
 
 ## 詳しい案内
 
 - [遊び方・保存データ・ファイルの確認](遊び方.md)
-- [v1.10.35の更新内容](release-notes/v1.10.35.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
-- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.35/GarageWildHeart-1.10.35-win-x64.zip.sha256)
+- [v1.10.36の更新内容](release-notes/v1.10.36.md) · [過去の配布版](https://github.com/mezon-web/GarageWildHeart-Releases/releases)
+- [動作確認について](検証.md) · [ZIPのSHA-256](https://github.com/mezon-web/GarageWildHeart-Releases/releases/download/v1.10.36/GarageWildHeart-1.10.36-win-x64.zip.sha256)
 
 本作の車両や診断値は架空のものです。実車の整備には使用しないでください。
 
